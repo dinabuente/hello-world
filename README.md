@@ -1,2 +1,3 @@
 # hello-world
-meu-segundo-repo
+## meu-**segundo**-*repo*
+Aprendendo comandos básicos do **Git**
